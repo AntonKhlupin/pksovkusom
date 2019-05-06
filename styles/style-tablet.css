@@ -1,0 +1,26 @@
+@media (max-width: 1023px) {
+	.header-ul {
+		display: none;
+	}
+	.header-ul:last-child {
+		display: unset;
+	}
+
+	.s-razd .wrap {
+		display: block;
+		justify-content: unset;
+	}
+
+	.content-menu, .s-razd .content {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.content {
+		padding: 0;
+	}
+
+	.content p {
+		padding: 10px;
+	}
+}

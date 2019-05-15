@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+	.s-razd {
+		min-height: calc(75vh - 99.7px);
+	}
+}
